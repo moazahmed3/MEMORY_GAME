@@ -2,8 +2,8 @@ let cards = document.querySelectorAll(".card");
 let firstCard,
   secondCard = null;
   let canClick =true,score=0;
-
-cards.forEach((card) => {
+  let userInput = prompt("Please enter your name:");
+  console.log("User input:", userInput);cards.forEach((card) => {
   card.addEventListener("click", cardHandler);
 });
 function cardHandler() {
@@ -36,7 +36,7 @@ function cardHandler() {
 }
 function gameOver(){
     setTimeout( ()=>{
-    let re= confirm("You Win🤍🤍 \n play Agian ???")
+    let re= confirm(`You Win ${userInput ? userInput:""} 😉❤️ \n play Agian ???`)
     if (re) location.reload();
     
     },1000)
