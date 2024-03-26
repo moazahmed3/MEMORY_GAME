@@ -4,7 +4,15 @@ let firstCard,
   let canClick =true,score=0;
   let userInput = prompt("Please enter your name:");
   console.log("User input:", userInput);cards.forEach((card) => {
-  card.addEventListener("click", cardHandler);
+  cards.forEach(card => {
+    card.classList.add("flip");
+  });
+  setTimeout(()=>{
+    cards.forEach(card => {
+      card.classList.remove("flip");
+    });
+  },1000)
+    card.addEventListener("click", cardHandler);
 });
 function cardHandler() {
     if(!canClick) return;
