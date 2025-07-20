@@ -1,4 +1,4 @@
-<img width="1375" height="849" alt="image" src="https://github.com/user-attachments/assets/2145ee61-fb44-40f2-862c-72b8012ebe1a" /># 🧠 MEMORY GAME
+🎮 MEMORY_GAME 
 
 This is a simple memory matching game built with **HTML, CSS, and JavaScript**.  
 It’s part of my **“150 JavaScript Projects”** challenge where I build real-world applications to level up my front-end skills.
