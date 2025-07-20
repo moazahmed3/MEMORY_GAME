@@ -1,23 +1,28 @@
-🎮 MEMORY_GAME 
+# Memory Game 🧠🎮
 
-This is a simple memory matching game built with **HTML, CSS, and JavaScript**.  
-It’s part of my **“150 JavaScript Projects”** challenge where I build real-world applications to level up my front-end skills.
+A simple and fun Memory Game built using HTML, CSS, and JavaScript. 
 
-## 🎮 Live Demo
-👉 [Play it here](https://moazahmed3.github.io/MEMORY_GAME/)
+## 🎯 Game Objective
 
-## 📸 Screenshots
-<img width="1375" height="849" alt="image" src="https://github.com/user-attachments/assets/69ff86e3-e387-4a80-bf71-2c5248920272" />
-
+The goal of the game is to match all pairs of cards by flipping two cards at a time. If the two cards have the same image, they remain visible. If not, they flip back. The game ends when all pairs are matched.
 
 ## 🚀 Features
-- Flip cards to find matching pairs
-- Score counter to track successful matches
-- Responsive and interactive design
 
-## 🛠️ Built With
-- HTML
-- CSS
-- JavaScript (Vanilla)
+- Fully responsive design
+- Animated card flipping
+- Restart button to play again
+- Tracks number of attempts
+- Timer to measure how fast you complete the game
 
-## 📁 Project Structure
+## 🛠️ Technologies Used
+
+- HTML5
+- CSS3 (Flexbox, Grid, Animations)
+- Vanilla JavaScript (DOM manipulation, event handling, array methods)<img width="192" height="192" alt="logo-O35E636P" src="https://github.com/user-attachments/assets/7bac09aa-14eb-43fb-94da-16d6427b419f" />
+
+
+## 🖥️ Live Demo
+
+Try the game here: [Live Demo](https://moazahmed3.github.io/MEMORY_GAME/)
+
+
