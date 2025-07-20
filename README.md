@@ -18,7 +18,8 @@ The goal of the game is to match all pairs of cards by flipping two cards at a t
 
 - HTML5
 - CSS3 (Flexbox, Grid, Animations)
-- Vanilla JavaScript (DOM manipulation, event handling, array methods)<img width="192" height="192" alt="logo-O35E636P" src="https://github.com/user-attachments/assets/7bac09aa-14eb-43fb-94da-16d6427b419f" />
+- Vanilla JavaScript (DOM manipulation, event handling, array methods)<img width="1375" height="849" alt="image" src="https://github.com/user-attachments/assets/13f22472-538c-4d6c-8508-5032681cb488" />
+
 
 
 ## 🖥️ Live Demo
